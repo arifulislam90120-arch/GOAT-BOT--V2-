@@ -17,6 +17,18 @@
 
 ---
 
+## 🔥 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗚𝗿𝗼𝘂𝗽
+
+<div align="center">
+
+### 🚨 👉 [𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 𝗧𝗢 𝗝𝗢𝗜𝗡 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗚𝗥𝗢𝗨𝗣](https://m.me/j/AbaLu1kVZB8R-vLR/) 👈 🚨
+
+💬 𝗚𝗲𝘁 𝗵𝗲𝗹𝗽 • 𝗨𝗽𝗱𝗮𝘁𝗲𝘀 • 𝗕𝘂𝗴 𝗳𝗶𝘅 • 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗰𝗵𝗮𝘁
+
+</div>
+
+---
+
 <div align="center">
 <img src="https://img.shields.io/badge/Version-v2.0-blue?style=for-the-badge&logo=github&labelColor=1F2428"/>
 <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge&logo=messenger&labelColor=1F2428"/>
@@ -65,7 +77,7 @@
 
 ## 📹 𝗦𝗲𝘁𝘂𝗽 𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹
 
-[![Watch Tutorial](https://img.youtube.com/vi/gPf_BFhQz_w/hqdefault.jpg)](https://youtu.be/gPf_BFhQz_w)  
+[![Watch Tutorial](https://img.youtube.com/vi/gPf_BFhQz_w/hqdefault.jpg)](https://youtu.be/gPf_BFhQz_w)
 
 Click thumbnail to watch full tutorial.
 
@@ -89,7 +101,7 @@ All original credits belong to the original developer: [ntkhang03](https://githu
 
 **Educational & personal use only.**  
 
-🚫 I am not responsible for misuse, platform bans, or violations.  
+🚫 I am not responsible for misuse, platform bans, or violations.
 
 ---
 

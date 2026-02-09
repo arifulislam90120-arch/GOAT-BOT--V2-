@@ -43,7 +43,7 @@ Fᴇᴍᴀʟᴇ    : ${female}
 Aᴅᴍɪɴs    : ${info.adminIDs.length}
 Mᴇssᴀɢᴇs  : ${info.messageCount}
 
-— Mᴏʜᴀᴍᴍᴀᴅ Aᴋᴀsʜ`;
+— ᰔᩚ𝙈𝘼...𝙈...𝙐𝙉✿`;
 
     const send = () =>
       api.sendMessage(

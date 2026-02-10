@@ -7,7 +7,7 @@ module.exports = {
     name: "help",
     aliases: ["menu", "commands"],
     version: "5.0",
-    author: "AKASH",
+    author: "亗🅼🅰ᥫᩣ🅼ᥫᩣ🆄🅽×͜×",
     shortDescription: "Show all commands",
     longDescription: "Show all commands in fancy font with boxes",
     category: "system",
@@ -65,7 +65,7 @@ module.exports = {
     let msg = `│\n│  ${fancyFont("COMMANDS MENU")}\n│  ───────────────\n`;
     msg += `│  ${fancyFont("PREFIX")} : ${prefix}\n`;
     msg += `│  ${fancyFont("TOTAL")}  : ${allCommands.size}\n`;
-    msg += `│  ${fancyFont("AUTHOR")} : AKASH\n│\n`;
+    msg += `│  ${fancyFont("AUTHOR")} : 亗🅼🅰ᥫᩣ🅼ᥫᩣ🆄🅽×͜×\n│\n`;
 
     for (const cat of Object.keys(categories)) {
       msg += `│  ┌─ ${categoryFont(cat.toUpperCase())} ─┐\n`;
@@ -77,9 +77,9 @@ module.exports = {
 
     // GIFs array
     const gifURLs = [
-      "https://i.imgur.com/Xw6JTfn.gif",
-      "https://i.imgur.com/mW0yjZb.gif",
-      "https://i.imgur.com/KQBcxOV.gif"
+      "https://i.imgur.com/AnivRhA.mp4",
+      "https://i.imgur.com/RVUlRqD.mp4",
+      "https://i.imgur.com/HJpCU1g.mp4"
     ];
     const randomGifURL = gifURLs[Math.floor(Math.random() * gifURLs.length)];
     const gifFolder = path.join(__dirname, "cache");
@@ -112,4 +112,5 @@ function downloadGif(url, dest) {
       reject(err);
     });
   });
-}
+       }
+ 

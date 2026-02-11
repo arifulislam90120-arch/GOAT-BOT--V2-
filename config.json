@@ -9,7 +9,7 @@
     "intervalGetNewCookie": 1440,
     "notes": "Automatically retrieves new cookies every x minutes. Recommended: 1440 (1 day)."
   },
-  "antiInbox": false,
+  "antiInbox": true,
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
   "nickNameBot": "♡┋ 𝙋𝙊𝙊𝙆𝙄𝙀 ᥫ᭡🎀🙂",
@@ -44,7 +44,7 @@
   },
   "database": {
     "type": "sqlite",
-    "uriMongodb": "",
+    "uriMongodb": "Database",
     "autoSyncWhenStart": false,
     "autoRefreshThreadInfoFirstTime": true,
     "notes": "Recommended using 'mongodb' or 'sqlite'."
